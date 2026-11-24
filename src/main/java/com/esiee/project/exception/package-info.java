@@ -1,0 +1,4 @@
+/**
+ * Exceptions métier et gestion centralisée des erreurs.
+ */
+package com.esiee.project.exception;
