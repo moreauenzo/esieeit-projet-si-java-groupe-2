@@ -1,0 +1,6 @@
+plugins {
+    // Permet à Gradle de télécharger automatiquement un JDK 21 si besoin
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.10.0'
+}
+
+rootProject.name = 'esieeit-projet-si-java'
